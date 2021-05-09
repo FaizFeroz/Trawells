@@ -1,0 +1,25 @@
+h1{
+    color: white;
+    background-color: black;
+    height: 9vh;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.featurette-heading{
+    color: forestgreen;
+}
+
+.lead{
+    color: blue;
+}
+
+.container{
+    background-color: beige;
+}
+
+.box p{
+    color: red;
+}
+
